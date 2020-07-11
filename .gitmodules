@@ -1,0 +1,27 @@
+[submodule "flight-software"]
+	path = flight-software
+	url = https://github.com/blue-dot-consortium/flight-software.git
+[submodule "avionics"]
+	path = avionics
+	url = https://github.com/blue-dot-consortium/avionics.git
+[submodule "gnc"]
+	path = gnc
+	url = https://github.com/blue-dot-consortium/gnc.git
+[submodule "structures"]
+	path = structures
+	url = https://github.com/blue-dot-consortium/structures.git
+[submodule "comms"]
+	path = comms
+	url = https://github.com/blue-dot-consortium/comms.git
+[submodule "power"]
+	path = power
+	url = https://github.com/blue-dot-consortium/power.git
+[submodule "thermal"]
+	path = thermal
+	url = https://github.com/blue-dot-consortium/thermal.git
+[submodule "payload"]
+	path = payload
+	url = https://github.com/blue-dot-consortium/payload.git
+[submodule "licensing"]
+	path = licensing
+	url = https://github.com/blue-dot-consortium/licensing.git
