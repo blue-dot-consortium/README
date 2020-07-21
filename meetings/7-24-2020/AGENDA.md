@@ -10,5 +10,9 @@
 - format ideas
 - prize ideas
 - timeline
+### Meeting Frequency
+- gauge of interest
+### Design Review Crossover & Facility Sharing
+- more brainstorming
 ## Feel free to edit the file and add more!
 
