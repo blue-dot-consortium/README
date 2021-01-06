@@ -1,2 +1,2 @@
 # blue-dot
-Resources for satellite development
+the blue dot consortium github organization
